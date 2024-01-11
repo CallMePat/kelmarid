@@ -208,7 +208,7 @@ function Dashboard() {
                     <div className="w-[95%] h-[2px] bg-[#EDEDF2] mt-[18px]"></div>
                   </div>
                 </div>
-                <div className="flex flex-row justify-between items-end w-[95%] absolute top-14 right-0">
+                <div className="flex flex-row justify-between items-end w-[88%] absolute top-24 right-0">
                   <div className="bg-[#FFC145] rounded-sm w-[20px] h-[68px]"></div>
                   <div className="bg-[#FFC145] rounded-sm w-[20px] h-[149px]"></div>
                   <div className="bg-[#FFC145] rounded-sm w-[20px] h-[104px]"></div>
